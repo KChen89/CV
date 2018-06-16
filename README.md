@@ -41,8 +41,8 @@
 ### Publications
 - Under review of in preparation 
   - K.Chen, LS Powers, JM Roveda, Multi-Sensor Signal Fusion For Neurological Activity Estimation Using Hybrid Neural Network. (in preparation). </br>
-  - K.Chen LS. Powers, JM. Roveda, Cell Nuclei Detection and Segmentation Using Deep Learning (in preparation).
-  - K.Chen LS. Powers, JM. Roveda, Noise-Invariant Component Analysis for Wearable Sensor based Electrocardiogram Monitoring System (in preparation).
+  - K.Chen, LS. Powers, JM. Roveda, Cell Nuclei Detection and Segmentation Using Deep Learning (in preparation).
+  - K.Chen, LS. Powers, JM. Roveda, Noise-Invariant Component Analysis for Wearable Sensor based Electrocardiogram Monitoring System (in preparation).
 - Publishsed or accepted
   - B.Liu, K.Chen, M.Seo, JM. Roveda, R.Lysecky, Evaluation Framework and New Power Obfuscation Methods to Hide Location of Sensitive Operation, GLSVLSI 2018 (accepted).
   - LS. Powers, Y.Zhang, K.Chen, et al., Low power real-time data acquisition using compressive sensing, Proceeding SPIE, Micro-and Nanotechnology Sensors, Systems, and Applications IX, 2017.
