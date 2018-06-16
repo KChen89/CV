@@ -38,3 +38,16 @@
 - **Compressive sensing based compression and noise removal for fluorescence microbial instrument**: (MATLAB) </br>
   - Implemented compressive sensing in DCT domain.
   - Implemented error tolerance based noie removal in recovering DCT coefficients.
+### Publications
+- Under review of in preparation 
+  - K.Chen, LS Powers, JM Roveda, Multi-Sensor Signal Fusion For Neurological Activity Estimation Using Hybrid Neural Network. (in preparation). </br>
+  - K.Chen LS. Powers, JM. Roveda, Cell Nuclei Detection and Segmentation Using Deep Learning (in preparation).
+  - K.Chen LS. Powers, JM. Roveda, Noise-Invariant Component Analysis for Wearable Sensor based Electrocardiogram Monitoring System (in preparation).
+- Publishsed or accepted
+  - B.Liu, K.Chen, M.Seo, JM. Roveda, R.Lysecky, Evaluation Framework and New Power Obfuscation Methods to Hide Location of Sensitive Operation, GLSVLSI 2018 (accepted).
+  - LS. Powers, Y.Zhang, K.Chen, et al., Low power real-time data acquisition using compressive sensing, Proceeding SPIE, Micro-and Nanotechnology Sensors, Systems, and Applications IX, 2017.
+  - JM. Roveda, K.Chen, LS. Powers, Sweet Dreams: Review of a Sleep Tracking Framework, International Jounral of Biosensors & Bioelectronics, 2017.
+  - JM. Roveda, W.Fink, K.Chen, W-T. Wu, Psychological Health Monitoring for Pilots and Astronauts by Tracking Sleep-Stress-Emotion Changes, IEEE Aerospace Conference, 2016.
+  - K.Chen, W.Fink, JM. Roveda, R.D. Lane, J.Allen, J.Vanuk, Wearable Sensor based Stress Management Using Integrated Respiratory and ECG Waveforms, IEEE 12th International Conference on Wearable and Implanable Body Sensor Networks (BSN) 2015.
+  - F.Shikh, W.He, J.Sprinkle, K.Chen, JM. Roveda, A heterogeneity based method to identify major variability components, Proceedings of the 4th International Conference on Electronics, Communications and Networks, 2014.
+  - K.Chen, JM. Roveda, R.D. Lane, Data calibration and dimensionality reduction for health care system, Proceedings of the 4th International Conference on Electronics, Communications and Networks, 2014.
