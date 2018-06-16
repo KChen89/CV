@@ -1,5 +1,5 @@
 ### Education
-- **Ph.D. in Electrical and Computer Engineering** (Aug. 2012 ~ Aug. 2018) </br>
+- **Ph.D. in Electrical and Computer Engineering** (Aug. 2012 ~ present) </br>
 *The University of Arizona*
 - **B.S. in Electrical and Information Enigneering** (Sept. 2008 ~ Jul. 2012)</br>
 *Tianjin Polytechnic University*
