@@ -1,8 +1,8 @@
 ### Education
 - **Ph.D. in Electrical and Computer Engineering** (Aug. 2012 ~ present) </br>
-*The University of Arizona*
+*The University of Arizona, Tucson, AZ*
 - **B.S. in Electrical and Information Enigneering** (Sept. 2008 ~ Jul. 2012)</br>
-*Tianjin Polytechnic University*
+*Tianjin Polytechnic University, Tianjin, China*
 
 ### Summary
 - **Research**: design, prototype, and implement health-care monitoring systems, biomedical applications using machine learning and signal/image processing.
