@@ -5,8 +5,8 @@
 *Tianjin Polytechnic University*
 
 ### Summary
-- **Research** design, prototype, and implement health-care monitoring systems, biomedical applications using machine learning and signal/image processing.
-- **Skills** Tensorflow, OpenCV, scikit-learn; design and implement machine learning based models (preprocessing ,data augmentation, hyper-parameter tuning, postprocessing); image/signal processing: compressive sensing, adaptive filtering, bilateral filtering, etc.
+- **Research**: design, prototype, and implement health-care monitoring systems, biomedical applications using machine learning and signal/image processing.
+- **Skills**: Tensorflow, OpenCV, scikit-learn; design and implement machine learning based models (preprocessing ,data augmentation, hyper-parameter tuning, postprocessing); image/signal processing: compressive sensing, adaptive filtering, bilateral filtering, etc.
 
 ### Programming
 - **Python**： Tensorflow, scikit-learn, OpenCV, scikit-image, numpy, scipy, matplotlib.
