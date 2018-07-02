@@ -40,11 +40,11 @@
   - Implemented error tolerance based noie removal in recovering DCT coefficients.
 ### Publications
 - Under review of in preparation 
-  - K.Chen, LS Powers, JM Roveda, Multi-Sensor Signal Fusion For Neurological Activity Estimation Using Hybrid Neural Network. (submitted to Information Fusion Elsevier). </br>
+  - K.Chen, LS Powers, JM Roveda, Deep Learning based Multi-Sensor Signal Fusion For Neurological Activity Estimatio. (submitted to IEEE/ACM Transactions on Computational Biology and Bioinformatics). </br>
   - K.Chen, LS. Powers, JM. Roveda, Cell Nuclei Detection and Segmentation Using Deep Learning (in preparation).
 - Publishsed or accepted
   - K.Chen, LS. Powers, JM. Roveda, Noise-Invariant Component Analysis for Wearable Sensor based Electrocardiogram Monitoring System, SM Journal of Biomedical Engineering, 2018.
-  - B.Liu, K.Chen, M.Seo, JM. Roveda, R.Lysecky, Evaluation Framework and New Power Obfuscation Methods to Hide Location of Sensitive Operation, GLSVLSI 2018 (accepted).
+  - B.Liu, K.Chen, M.Seo, JM. Roveda, R.Lysecky, Evaluation Framework and New Power Obfuscation Methods to Hide Location of Sensitive Operation, Proceedings of the 2018 on Great Lakes Symposium on VLSI. Pages 467-470, 2018.
   - LS. Powers, Y.Zhang, K.Chen, et al., Low power real-time data acquisition using compressive sensing, Proceeding SPIE, Micro-and Nanotechnology Sensors, Systems, and Applications IX, 2017.
   - JM. Roveda, K.Chen, LS. Powers, Sweet Dreams: Review of a Sleep Tracking Framework, International Jounral of Biosensors & Bioelectronics, 2017.
   - JM. Roveda, W.Fink, K.Chen, W-T. Wu, Psychological Health Monitoring for Pilots and Astronauts by Tracking Sleep-Stress-Emotion Changes, IEEE Aerospace Conference, 2016.
