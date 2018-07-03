@@ -40,7 +40,7 @@
   - Implemented error tolerance based noie removal in recovering DCT coefficients.
 ### Publications
 - Under review of in preparation 
-  - K.Chen, LS Powers, JM Roveda, Deep Learning based Multi-Sensor Signal Fusion For Neurological Activity Estimation. (submiting to IEEE/ACM Transactions on Computational Biology and Bioinformatics). </br>
+  - K.Chen, LS Powers, JM Roveda, Deep Learning based Multi-Sensor Signal Fusion For Neurological Activity Estimation. (in submission to IEEE/ACM Transactions on Computational Biology and Bioinformatics). </br>
   - K.Chen, LS. Powers, JM. Roveda, Cell Nuclei Detection and Segmentation Using Deep Learning (in preparation).
 - Publishsed or accepted
   - K.Chen, LS. Powers, JM. Roveda, Noise-Invariant Component Analysis for Wearable Sensor based Electrocardiogram Monitoring System, SM Journal of Biomedical Engineering, 2018.
